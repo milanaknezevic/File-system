@@ -1,0 +1,11 @@
+C:\Users\Korisnik\Desktop\Projekat_MK\Projekat_MK\Projekat_MK\bin\Debug\netcoreapp3.1\Projekat_MK.exe
+C:\Users\Korisnik\Desktop\Projekat_MK\Projekat_MK\Projekat_MK\bin\Debug\netcoreapp3.1\Projekat_MK.deps.json
+C:\Users\Korisnik\Desktop\Projekat_MK\Projekat_MK\Projekat_MK\bin\Debug\netcoreapp3.1\Projekat_MK.runtimeconfig.json
+C:\Users\Korisnik\Desktop\Projekat_MK\Projekat_MK\Projekat_MK\bin\Debug\netcoreapp3.1\Projekat_MK.runtimeconfig.dev.json
+C:\Users\Korisnik\Desktop\Projekat_MK\Projekat_MK\Projekat_MK\bin\Debug\netcoreapp3.1\Projekat_MK.dll
+C:\Users\Korisnik\Desktop\Projekat_MK\Projekat_MK\Projekat_MK\bin\Debug\netcoreapp3.1\Projekat_MK.pdb
+C:\Users\Korisnik\Desktop\Projekat_MK\Projekat_MK\Projekat_MK\obj\Debug\netcoreapp3.1\Projekat_MK.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\Projekat_MK\Projekat_MK\Projekat_MK\obj\Debug\netcoreapp3.1\Projekat_MK.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\Projekat_MK\Projekat_MK\Projekat_MK\obj\Debug\netcoreapp3.1\Projekat_MK.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\Projekat_MK\Projekat_MK\Projekat_MK\obj\Debug\netcoreapp3.1\Projekat_MK.dll
+C:\Users\Korisnik\Desktop\Projekat_MK\Projekat_MK\Projekat_MK\obj\Debug\netcoreapp3.1\Projekat_MK.pdb

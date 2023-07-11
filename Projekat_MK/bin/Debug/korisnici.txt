@@ -1,0 +1,7 @@
+korisnik1;123
+korisnik2;sifrasuper
+korisnik3;321
+korisnik4;784
+korisnik5;sifra2
+korisnik6;000
+kor1;1
